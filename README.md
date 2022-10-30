@@ -176,6 +176,7 @@ A curated list of awesome projects related to Gitea.
 * [Earl Grey](https://github.com/acoolstraw/earl-grey) - An elegant dark theme for Gitea with blue as highlight color used on https://git.pinnoto.org/bo
 * [Tangerine Dream](https://github.com/jager012/tangerine-dream) - Tangerine dark theme for Gitea
 * [Dark Arc](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast, based on arc-green.
+* [Edge](https://git.sainnhe.dev/sainnhe/gitea-theme-edge) - Dark theme based on edge vim color scheme.
 
 ## Workflow Tools
 
