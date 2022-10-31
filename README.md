@@ -162,6 +162,7 @@ A curated list of awesome projects related to Gitea.
 * [Modern](https://codeberg.org/Freeplay/Gitea-Modern) - Changes the layout for a more modern look. Usable with other themes that only change colors.
 * [theme.park](https://docs.theme-park.dev/themes/gitea) - Rich theme suite that includes Gitea
 * [pat-s/GitHub](https://github.com/pat-s/gitea-github-theme) - Opinionated GitHub-inspired light and dark themes
+* [Sainnhe's Theme Pack](https://git.sainnhe.dev/sainnhe/gitea-themes) - Port of some editor themes
 
 ### Light
 * [Red Silver](https://github.com/iamdoubz/Gitea-Red-Silver) - Red silver theme by iamdoubz
@@ -177,7 +178,6 @@ A curated list of awesome projects related to Gitea.
 * [Earl Grey](https://github.com/acoolstraw/earl-grey) - An elegant dark theme for Gitea with blue as highlight color used on https://git.pinnoto.org/bo
 * [Tangerine Dream](https://github.com/jager012/tangerine-dream) - Tangerine dark theme for Gitea
 * [Dark Arc](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast, based on arc-green.
-* [Edge](https://git.sainnhe.dev/sainnhe/gitea-theme-edge) - Dark theme based on edge vim color scheme.
 
 ## Workflow Tools
 
