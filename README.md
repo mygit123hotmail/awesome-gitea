@@ -130,6 +130,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-comment-plugin](https://github.com/TsakiDev/gitea-comment) - A Drone plugin to post comments on a Gitea Pull Request.
 * [Gitea Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GiteaExtensionforVisualStudio) - A Visual Studio Extension that brings the Gitea Flow into Visual Studio.
 * [gitea-kanban](https://github.com/qontu/gitea-kanban) - Kanban for Gitea done in Vue
+* [gitea-preview](https://github.com/pacman-ghost/gitea-preview) - Preview files (including HTML) directly from a Gitea repo.
 * [gitea-tree](https://github.com/vickllny/giteatree) - gitea-tree
 * [Gitea-VSCode](https://marketplace.visualstudio.com/items?itemName=ijustdev.gitea-vscode) - Gitea Issue Tracker for vs-code
 * [intellij-gitea-plugin](https://github.com/e1fueg0/intellij-gitea-plugin) - Gitea issue tracker integration plugin for Jetbrains IDE platform.
