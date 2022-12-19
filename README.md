@@ -12,25 +12,15 @@ A curated list of awesome projects related to Gitea.
     - [DevOps](#devops)
     - [Mobile](#mobile)
     - [Panel](#panel)
-
 - [Migration](#migration)
-
 - [Organizations](#organizations)
-
 - [Packages](#packages)
-
 - [Package Management](#package-management)
-
 - [Plugins](#plugins)
-
 - [Scripts](#scripts)
-
 - [SDK](#sdk)
-
 - [Themes](#themes)
-
 - [Workflow Tools](#workflow-tools)
-
 - [Project Management](#project-management)
 
 ## Applications
