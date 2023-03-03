@@ -155,10 +155,10 @@ A curated list of awesome projects related to Gitea.
 * [Modern](https://codeberg.org/Freeplay/Gitea-Modern) - Changes the layout for a more modern look. Usable with other themes that only change colors.
 * [theme.park](https://docs.theme-park.dev/themes/gitea) - Rich theme suite that includes Gitea
 * [pat-s/GitHub](https://codeberg.org/pat-s/gitea-github-theme) - Opinionated GitHub-inspired light and dark themes
+* [Red](https://github.com/saegl5/Gitea-Red) - Red theme by saegl5 (forked from Red Silver)
 * [Sainnhe's Theme Pack](https://git.sainnhe.dev/sainnhe/gitea-themes) - Port of some editor themes
 
 ### Light
-* [Red](https://github.com/saegl5/Gitea-Red) - Red theme by saegl5 (forked from Red Silver)
 * [Red Silver](https://github.com/iamdoubz/Gitea-Red-Silver) - Red silver theme by iamdoubz
 * [lstolcman/GitHub](https://github.com/lstolcman/gitea-github-theme) - Simple Github theme for Gitea
 * [Light Blue](https://github.com/sIspravnikov/gitea-lightblue) - Light blue theme inspired by Bitbucket
