@@ -146,6 +146,7 @@ A curated list of awesome projects related to Gitea.
 * [Golang SDK](https://gitea.com/gitea/go-sdk) - Official Golang SDK for gitea.
 * [java-gitea-api](https://github.com/zeripath/java-gitea-api) - Swagger generated api for Gitea
 * [PHP](https://github.com/avency/Gitea/) - PHP SDK for gitea
+* [py-gitea](https://github.com/Langenfeld/py-gitea/) - A very simple API client for Gitea > 1.16.1
 * [Sugar Cube Client](https://github.com/sitelease/sugar-cube-client) - A sweet Gitea API client for PHP
 * [tea4j-autodeploy](https://codeberg.org/gitnex/tea4j-autodeploy) - Swagger-generated Java library which uses Retrofit to access the Gitea API
 
