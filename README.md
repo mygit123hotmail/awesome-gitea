@@ -152,7 +152,7 @@ A curated list of awesome projects related to Gitea.
 
 ## Themes
 
-* [Catppuccin](https://github.com/catppuccin/codeberg) - Soothing pastel theme for Codeberg (Easily modified to work with any Gitea instance)
+* [Catppuccin](https://github.com/catppuccin/gitea) - Soothing pastel theme for Gitea
 * [Modern](https://codeberg.org/Freeplay/Gitea-Modern) - Changes the layout for a more modern look. Usable with other themes that only change colors.
 * [theme.park](https://docs.theme-park.dev/themes/gitea) - Rich theme suite that includes Gitea
 * [pat-s/GitHub](https://codeberg.org/pat-s/gitea-github-theme) - Opinionated GitHub-inspired light and dark themes
