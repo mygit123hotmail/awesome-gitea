@@ -12,6 +12,7 @@ A curated list of awesome projects related to Gitea.
     - [DevOps](#devops)
     - [Mobile](#mobile)
     - [Panel](#panel)
+    - [Web Hosting](#web-hosting)
 - [Migration](#migration)
 - [Organizations](#organizations)
 - [Packages](#packages)
@@ -71,6 +72,10 @@ A curated list of awesome projects related to Gitea.
 
 * [GiteaPanel](https://github.com/sashaoli/GiteaPanel) - Manage the local Gitea server from the tray.
 * [Listea](https://github.com/IGLOU-EU/listea) - Simple Gitea issues viewer from the tray.
+
+### Web Hosting
+
+* [Pages Server](https://codeberg.org/Codeberg/pages-server) - Static Pages Server, Gitea equivalent of GitHub Pages: Can serve static webpages on custom domains, including caching, and much more
 
 ## Migration
 
