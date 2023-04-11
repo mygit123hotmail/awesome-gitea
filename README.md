@@ -62,6 +62,7 @@ A curated list of awesome projects related to Gitea.
 * [Renovate](https://github.com/renovatebot/renovate) - Gitea compatible configurable universal dependability update tool
 * [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) - A minimalist Python Flask app that uses Gitea webhooks to perform actions.
 * [woodpecker](https://github.com/woodpecker-ci/woodpecker) - An opinionated fork of the Drone CI system. Built-in Gitea support. (see [docs](https://woodpecker-ci.org/docs/administration/vcs/gitea))
+* [yojo](https://sr.ht/~emersion/yojo/) - A CI bridge from Gitea to SourceHut.
 
 ### Mobile
 
