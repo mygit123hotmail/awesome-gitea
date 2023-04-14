@@ -1,28 +1,35 @@
 # Awesome Gitea
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Contribution%20Guide](https://img.shields.io/badge/-Contribution%20Guide-informational?style=flat)](contributing.md)
 
 A curated list of awesome projects related to Gitea.
 
-### Contents
+## Contents
 
-- [Applications](#applications)
-  - [Bot](#bot)
-  - [Command Line](#command-line)
-  - [DevOps](#devops)
-  - [Mobile](#mobile)
-  - [Panel](#panel)
-  - [Web Hosting](#web-hosting)
-- [Migration](#migration)
-- [Organizations](#organizations)
-- [Packages](#packages)
-- [Package Management](#package-management)
-- [Plugins](#plugins)
-- [Scripts](#scripts)
-- [SDK](#sdk)
-- [Themes](#themes)
-- [Workflow Tools](#workflow-tools)
-- [Project Management](#project-management)
+- [Awesome Gitea](#awesome-gitea)
+  - [Contents](#contents)
+  - [Applications](#applications)
+    - [Bot](#bot)
+    - [Command Line](#command-line)
+    - [DevOps](#devops)
+    - [Mobile](#mobile)
+    - [Panel](#panel)
+    - [Web Hosting](#web-hosting)
+  - [Migration](#migration)
+  - [Organizations](#organizations)
+    - [Open Registration](#open-registration)
+    - [For internal use](#for-internal-use)
+  - [Packages](#packages)
+  - [Package Management](#package-management)
+  - [Plugins](#plugins)
+  - [Scripts](#scripts)
+  - [SDK](#sdk)
+  - [Themes](#themes)
+    - [Light](#light)
+    - [Dark](#dark)
+  - [Workflow Tools](#workflow-tools)
+  - [Project Management](#project-management)
 
 ## Applications
 
@@ -176,11 +183,11 @@ A curated list of awesome projects related to Gitea.
 - [Bthree Dark](https://projects.blender.org/infrastructure/gitea-custom) - A dark theme created and used by the Blender Project.
 - [Carbon Red](https://github.com/iamdoubz/Gitea-Carbon-Red) - Darker red 1.14+ theme based on arc-green by iamdoubz
 - [Dark Arc](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast, based on arc-green.
-- [Dark Blue](https://gitea.artixlinux.org/artix/gitea-dark-blue) - The dark blue Gitea theme used on https://gitea.artixlinux.org
+- [Dark Blue](https://gitea.artixlinux.org/artix/gitea-dark-blue) - The dark blue Gitea theme used on [https://gitea.artixlinux.org](https://gitea.artixlinux.org)
 - [Dark Red](https://github.com/iamdoubz/Gitea-Dark-Red-Theme) - Dark red theme by iamdoubz
-- [Earl Grey](https://github.com/acoolstraw/earl-grey) - An elegant dark theme for Gitea with blue as highlight color used on https://git.pinnoto.org/bo
+- [Earl Grey](https://github.com/acoolstraw/earl-grey) - An elegant dark theme for Gitea with blue as highlight color used on [https://git.pinnoto.org/bo](https://git.pinnoto.org/bo)
 - [Matrix](https://github.com/TylerByte666/gitea-matrix-template) - Neon-green with a matrix-inspired background
-- [Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - Pitch black 1.14+ theme used on https://git.dou.bet/iamdoubz/Gitea-Pitch-Black
+- [Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - Pitch black 1.14+ theme used on [https://git.dou.bet/iamdoubz/Gitea-Pitch-Black](https://git.dou.bet/iamdoubz/Gitea-Pitch-Black)
 - [Tangerine Dream](https://github.com/jager012/tangerine-dream) - Tangerine dark theme for Gitea
 
 ## Workflow Tools
